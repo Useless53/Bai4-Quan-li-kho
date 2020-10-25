@@ -1,0 +1,5 @@
+C:\Users\thong\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csprojAssemblyReference.cache
+C:\Users\thong\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.Form1.resources
+C:\Users\thong\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.Properties.Resources.resources
+C:\Users\thong\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csproj.GenerateResource.cache
+C:\Users\thong\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csproj.CoreCompileInputs.cache
