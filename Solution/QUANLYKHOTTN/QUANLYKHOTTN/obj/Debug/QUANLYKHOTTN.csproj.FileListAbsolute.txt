@@ -16,3 +16,15 @@ C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csproj.CopyComplete
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.exe
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.pdb
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\bin\Debug\QUANLYKHOTTN.exe.config
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\bin\Debug\QUANLYKHOTTN.exe
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\bin\Debug\QUANLYKHOTTN.pdb
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csprojAssemblyReference.cache
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.Form1.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.frmQuanLyKho.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.Properties.Resources.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csproj.GenerateResource.cache
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csproj.CoreCompileInputs.cache
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.csproj.CopyComplete
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.exe
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\QUANLYKHOTTN\QUANLYKHOTTN\obj\Debug\QUANLYKHOTTN.pdb
