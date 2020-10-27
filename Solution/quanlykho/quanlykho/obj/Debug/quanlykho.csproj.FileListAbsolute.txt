@@ -1,0 +1,11 @@
+C:\Users\thong\source\repos\quanlykho\quanlykho\bin\Debug\quanlykho.exe.config
+C:\Users\thong\source\repos\quanlykho\quanlykho\bin\Debug\quanlykho.exe
+C:\Users\thong\source\repos\quanlykho\quanlykho\bin\Debug\quanlykho.pdb
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.csprojAssemblyReference.cache
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.dangnhap.resources
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.menu.resources
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.Properties.Resources.resources
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.GenerateResource.cache
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.CoreCompileInputs.cache
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.exe
+C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.pdb
