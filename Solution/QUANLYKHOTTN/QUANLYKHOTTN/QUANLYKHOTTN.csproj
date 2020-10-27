@@ -50,6 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="APPDATA\Connector.cs" />
+    <Compile Include="APPDATA\DATA.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +64,9 @@
     <Compile Include="frmQuanLyKho.designer.cs">
       <DependentUpon>frmQuanLyKho.cs</DependentUpon>
     </Compile>
+    <Compile Include="HANGHOADATA.cs" />
+    <Compile Include="NHASANXUATDATA.cs" />
+    <Compile Include="PHIEUNHAPDATA.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
