@@ -9,3 +9,14 @@ C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.Gener
 C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.CoreCompileInputs.cache
 C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.exe
 C:\Users\thong\source\repos\quanlykho\quanlykho\obj\Debug\quanlykho.pdb
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\bin\Debug\quanlykho.exe.config
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\bin\Debug\quanlykho.exe
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\bin\Debug\quanlykho.pdb
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.dangnhap.resources
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.menu.resources
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.exe
+C:\Users\Admin\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.pdb
