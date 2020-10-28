@@ -59,7 +59,8 @@ namespace quanlykho
 
         private void toolStripMenuItem2_Click(object sender, EventArgs e)
         {
-
+            formThemnhap t = new formThemnhap();
+            t.Show();
         }
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)

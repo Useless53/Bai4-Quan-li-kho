@@ -52,6 +52,12 @@
     <Compile Include="dangnhap.designer.cs">
       <DependentUpon>dangnhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="formThemnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formThemnhap.designer.cs">
+      <DependentUpon>formThemnhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="dangnhap.resx">
       <DependentUpon>dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formThemnhap.resx">
+      <DependentUpon>formThemnhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="menu.resx">
       <DependentUpon>menu.cs</DependentUpon>
