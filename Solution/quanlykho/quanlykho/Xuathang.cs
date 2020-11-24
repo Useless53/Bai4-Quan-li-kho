@@ -13,7 +13,7 @@ namespace quanlykho
 {
     public partial class Xuathang : Form
     {
-        SqlConnection conn = new SqlConnection("Data Source=DESKTOP-QM5M51F\\SQLEXPRESS03;Initial Catalog=quanlykho;Integrated Security=True");
+        SqlConnection conn = new SqlConnection("Data Source=DESKTOP-BVI7NJ5;Initial Catalog=quanlykho;Integrated Security=True");
         public Xuathang()
         {
             InitializeComponent();

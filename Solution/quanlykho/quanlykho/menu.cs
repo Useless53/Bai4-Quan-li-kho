@@ -76,8 +76,9 @@ namespace quanlykho
 
         private void toolStripMenuItem5_Click(object sender, EventArgs e)
         {
-
-        }
+               Thongke t = new Thongke();
+               t.ShowDialog();
+          }
 
         private void toolStripMenuItem7_Click(object sender, EventArgs e)
         {
