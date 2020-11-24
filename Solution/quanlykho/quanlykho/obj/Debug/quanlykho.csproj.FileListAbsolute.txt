@@ -32,3 +32,16 @@ C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\De
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.exe
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.pdb
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\bin\Debug\quanlykho.exe.config
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\bin\Debug\quanlykho.exe
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\bin\Debug\quanlykho.pdb
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csprojAssemblyReference.cache
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.dangnhap.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.formThemnhap.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.menu.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Properties.Resources.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Xuathang.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.GenerateResource.cache
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.CoreCompileInputs.cache
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.exe
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.pdb

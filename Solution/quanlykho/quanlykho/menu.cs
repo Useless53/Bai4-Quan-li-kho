@@ -65,7 +65,8 @@ namespace quanlykho
 
         private void toolStripMenuItem3_Click(object sender, EventArgs e)
         {
-
+            Xuathang t = new Xuathang();
+            t.ShowDialog();
         }
 
         private void toolStripMenuItem4_Click(object sender, EventArgs e)
