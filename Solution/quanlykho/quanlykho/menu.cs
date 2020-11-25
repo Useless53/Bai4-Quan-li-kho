@@ -83,7 +83,8 @@ namespace quanlykho
 
         private void toolStripMenuItem7_Click(object sender, EventArgs e)
         {
-
+            frmHuongDan f = new frmHuongDan();
+            f.ShowDialog();
         }
     }
 }

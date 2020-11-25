@@ -62,3 +62,6 @@ C:\Users\giang\OneDrive\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykh
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Thongke.resources
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Timkiem.resources
 C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Xuathang.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Thongke.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Timkiem.resources
+C:\Users\vominhkhai\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.frmHuongDan.resources
