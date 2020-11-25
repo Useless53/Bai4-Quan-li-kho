@@ -71,7 +71,8 @@ namespace quanlykho
 
         private void toolStripMenuItem4_Click(object sender, EventArgs e)
         {
-
+            Timkiem t = new Timkiem();
+            t.ShowDialog();
         }
 
         private void toolStripMenuItem5_Click(object sender, EventArgs e)

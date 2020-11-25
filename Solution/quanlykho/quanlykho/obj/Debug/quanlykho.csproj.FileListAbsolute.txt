@@ -59,3 +59,6 @@ C:\Users\giang\OneDrive\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykh
 C:\Users\giang\OneDrive\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.csproj.CoreCompileInputs.cache
 C:\Users\giang\OneDrive\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.exe
 C:\Users\giang\OneDrive\Documents\GitHub\Bai4-Quan-li-nha-hang\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.pdb
+C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Thongke.resources
+C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Timkiem.resources
+C:\Users\Admin\Documents\GitHub\vo-minh-khai\Solution\quanlykho\quanlykho\obj\Debug\quanlykho.Xuathang.resources

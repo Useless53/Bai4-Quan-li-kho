@@ -72,6 +72,12 @@
     <Compile Include="Thongke.designer.cs">
       <DependentUpon>Thongke.cs</DependentUpon>
     </Compile>
+    <Compile Include="Timkiem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timkiem.designer.cs">
+      <DependentUpon>Timkiem.cs</DependentUpon>
+    </Compile>
     <Compile Include="Xuathang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -98,6 +104,9 @@
     </Compile>
     <EmbeddedResource Include="Thongke.resx">
       <DependentUpon>Thongke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timkiem.resx">
+      <DependentUpon>Timkiem.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Xuathang.resx">
       <DependentUpon>Xuathang.cs</DependentUpon>
