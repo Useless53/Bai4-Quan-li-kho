@@ -32,7 +32,6 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.btnThem = new System.Windows.Forms.Button();
-            this.bntThoat = new System.Windows.Forms.Button();
             this.dg1 = new System.Windows.Forms.DataGridView();
             this.bntXoa = new System.Windows.Forms.Button();
             this.bntSua = new System.Windows.Forms.Button();
@@ -85,22 +84,13 @@
             // btnThem
             // 
             this.btnThem.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.btnThem.Location = new System.Drawing.Point(132, 213);
+            this.btnThem.Location = new System.Drawing.Point(155, 213);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 106;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
-            // 
-            // bntThoat
-            // 
-            this.bntThoat.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.bntThoat.Location = new System.Drawing.Point(537, 213);
-            this.bntThoat.Name = "bntThoat";
-            this.bntThoat.Size = new System.Drawing.Size(75, 23);
-            this.bntThoat.TabIndex = 105;
-            this.bntThoat.Text = "Thoát";
-            this.bntThoat.UseVisualStyleBackColor = true;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
             // 
             // dg1
             // 
@@ -116,22 +106,24 @@
             // bntXoa
             // 
             this.bntXoa.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.bntXoa.Location = new System.Drawing.Point(404, 213);
+            this.bntXoa.Location = new System.Drawing.Point(465, 213);
             this.bntXoa.Name = "bntXoa";
             this.bntXoa.Size = new System.Drawing.Size(75, 23);
             this.bntXoa.TabIndex = 103;
             this.bntXoa.Text = "Xóa";
             this.bntXoa.UseVisualStyleBackColor = true;
+            this.bntXoa.Click += new System.EventHandler(this.bntXoa_Click);
             // 
             // bntSua
             // 
             this.bntSua.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.bntSua.Location = new System.Drawing.Point(271, 213);
+            this.bntSua.Location = new System.Drawing.Point(315, 213);
             this.bntSua.Name = "bntSua";
             this.bntSua.Size = new System.Drawing.Size(75, 23);
             this.bntSua.TabIndex = 102;
             this.bntSua.Text = "Sửa ";
             this.bntSua.UseVisualStyleBackColor = true;
+            this.bntSua.Click += new System.EventHandler(this.bntSua_Click);
             // 
             // label7
             // 
@@ -244,6 +236,7 @@
             this.cbmakhach.Name = "cbmakhach";
             this.cbmakhach.Size = new System.Drawing.Size(121, 21);
             this.cbmakhach.TabIndex = 122;
+            this.cbmakhach.SelectedIndexChanged += new System.EventHandler(this.cbmakhach_SelectedIndexChanged);
             // 
             // cbmahh
             // 
@@ -271,7 +264,6 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.btnThem);
-            this.Controls.Add(this.bntThoat);
             this.Controls.Add(this.dg1);
             this.Controls.Add(this.bntXoa);
             this.Controls.Add(this.bntSua);
@@ -295,7 +287,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Button btnThem;
-        private System.Windows.Forms.Button bntThoat;
         private System.Windows.Forms.DataGridView dg1;
         private System.Windows.Forms.Button bntXoa;
         private System.Windows.Forms.Button bntSua;

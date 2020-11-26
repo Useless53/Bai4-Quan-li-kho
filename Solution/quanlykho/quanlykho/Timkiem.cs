@@ -14,7 +14,7 @@ namespace quanlykho
     public partial class Timkiem : Form
     {
 
-        SqlConnection con = new SqlConnection("Data Source=DESKTOP-QM5M51F\\SQLEXPRESS03;Initial Catalog=quanlykho;Integrated Security = True");
+        SqlConnection con = new SqlConnection("Data Source=DESKTOP-F87TJRB\\SQLEXPRESS;Initial Catalog=quanlykho;Integrated Security = True");
         //SqlConnection con = new SqlConnection("data source=8470P-PC\\CNTTSQL;initial catalog=quanlykho;integrated security=True;MultipleActiveResultSets=True");
         public Timkiem()
         {
