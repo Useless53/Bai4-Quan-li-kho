@@ -21,7 +21,7 @@ namespace quanlykho
         private void btn_xem_Click(object sender, EventArgs e)
         {
                // SqlConnection con = new SqlConnection("server = HP6460B-PC\\SQLEXPRESS; database = QLKH; integrated security = SSPI");
-            SqlConnection con = new SqlConnection("Data Source = DESKTOP-F87TJRB\\SQLEXPRESS; Initial Catalog = quanlykho; Integrated Security = True");
+            SqlConnection con = new SqlConnection("Data Source = DESKTOP-3PCK6EV\\SQLEXPRESS; Initial Catalog = quanlykho; Integrated Security = True");
                 if (con.State != ConnectionState.Open)
                     con.Open();
                 SqlCommand sc1 = new SqlCommand("ht_hangnhap", con);

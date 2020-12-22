@@ -19,7 +19,7 @@ namespace quanlykho
 
         private void tmns_huongdan_Click(object sender, EventArgs e)
         {   
-            string file = "F:\\HDSD\\HDSD.mhtml";
+            string file = "C:\\Users\\Admin\\Documents\\GitHub\\Bai4-Quan-li-nha-hang\\Solution\\HDSD\\HDSD.mhtml";
             //file = "HDSD.mhtml";
             //string html = System.IO.File.ReadAllText(file);
             //wbw_huongdan.DocumentText = html;
@@ -33,25 +33,25 @@ namespace quanlykho
 
         private void tmns_nhaphang_Click(object sender, EventArgs e)
         {
-            string file = "F:\\HDSD\\Nhập hàng.mhtml";
+            string file = "C:\\Users\\Admin\\Documents\\GitHub\\Bai4-Quan-li-nha-hang\\Solution\\HDSD\\Nhập hàng.mhtml";
             wbw_huongdan.Url = new Uri(file);
         }
 
         private void tmns_xuathang_Click(object sender, EventArgs e)
         {
-            string file = "F:\\HDSD\\Xuất hàng.mhtml";
+            string file = "C:\\Users\\Admin\\Documents\\GitHub\\Bai4-Quan-li-nha-hang\\Solution\\HDSD\\Xuất hàng.mhtml";
             wbw_huongdan.Url = new Uri(file);
         }
 
         private void tmns_timkiem_Click(object sender, EventArgs e)
         {
-            string file = "F:\\HDSD\\Tìm kiếm.mhtml";
+            string file = "C:\\Users\\Admin\\Documents\\GitHub\\Bai4-Quan-li-nha-hang\\Solution\\HDSD\\Tìm kiếm.mhtml";
             wbw_huongdan.Url = new Uri(file);
         }
 
         private void tmns_thongke_Click(object sender, EventArgs e)
         {
-            string file = "F:\\HDSD\\Thống kê.mhtml";
+            string file = "C:\\Users\\Admin\\Documents\\GitHub\\Bai4-Quan-li-nha-hang\\Solution\\HDSD\\Thống kê.mhtml";
             wbw_huongdan.Url = new Uri(file);
         }
 
